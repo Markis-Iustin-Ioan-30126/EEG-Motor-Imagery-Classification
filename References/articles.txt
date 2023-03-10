@@ -1,0 +1,24 @@
+-Movement Induced EEG artifacts 2022
+https://iopscience.iop.org/article/10.1088/1741-2552/ac542c/meta
+
+-The Recognition of Action Idea EEG with Deep Learning
+https://www.hindawi.com/journals/complexity/2022/5308885/
+
+-Feedback Artificial Shuffled Shepherd Optimization-Based Deep Maxout Network for Human Emotion Recognition Using EEG Signals
+https://www.hindawi.com/journals/ijta/2022/3749413/https://sci-hub.se/https://doi.org/10.1016/j.bspc.2020.102172
+
+-Deep learning for motor imagery EEG-based classification: A review 2021
+https://sci-hub.se/https://doi.org/10.1016/j.bspc.2020.102172
+
+-Advances in modern EEG-BCI signal processing: A review - DONE
+https://sci-hub.se/https://doi.org/10.1016/j.matpr.2021.06.409
+
+-Deep learning for electroencephalogram (EEG) classification tasks: a review
+https://iopscience.iop.org/article/10.1088/1741-2552/ab0ab5
+
+-A comprehensive review of EEG-based brain-computer interface
+paradigms
+https://sci-hub.se/https://doi.org/10.1088/1741-2552/aaf12e
+
+-Deep learning techniques for classification of electroencephalogram (EEG) motor imagery (MI) signals: a review
+https://sci-hub.se/https://doi.org/10.1007/s00521-021-06352-5
