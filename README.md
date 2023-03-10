@@ -7,7 +7,7 @@ The objective of this project is to take steps in motor
 imaginary classification based on EEG(Electroencephalogram)
 signals and reduce the gap between dream and reality.
 Full details regarding the results of this research project
-can be found [***here***]().
+can be found [***here***](https://github.com/Markis-Iustin-Ioan-30126/EEG-Motor-Imagery-Classification/blob/main/EEG_Motor_Imagery_Classification.pdf).
 
 A general BCI system structure
 is shown, with other words a BCI system architecture can
@@ -37,4 +37,4 @@ that maps the time-frequency analysis into an image
 
 Such images were used as input for the neural network 
 in order to perfom the cassification task. The results and 
-conclusions of the project are presented [***here***]().
+conclusions of the project are presented [***here***](https://github.com/Markis-Iustin-Ioan-30126/EEG-Motor-Imagery-Classification/blob/main/EEG_Motor_Imagery_Classification.pdf).
